@@ -27,6 +27,7 @@
 		<include file="getBeans.xsl" />
 		<include file="saveBean.xsl" />
 		<include file="deleteBean.xsl" />
+		<include file="onMissingMethod.xsl" />
 	</service>
 	<to filetype="cfc" />
 	<coldspring filetype="xml" />
